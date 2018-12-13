@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Clipboard2WebSearch</string>
+    <string name="search">Search</string>
+    <string name="searchmyclipboard">Search my Clipboard</string>
 </resources>
